@@ -1,5 +1,5 @@
-# practice
-repositories just for fun
+# Practice
+Repositories just for fun
 # For File sharing first install:
 pip install pyqrcode
 pip install pypng
